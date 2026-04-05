@@ -12,7 +12,6 @@ A simple web application featuring user authentication and input handling.
 - Input validation  
 - Basic web structure  
  
-
 ---
 
 ### ⚖️ BMI Calculator
@@ -41,17 +40,15 @@ I am highly motivated to develop my skills in software engineering and enjoy bui
 
 ---
 
-## 📌 Goals
-I am currently working on improving my projects and expanding my knowledge within:
-- Full-stack development  
-- APIs and backend systems  
-- Collaborative development using Git and GitHub  
+## 📌 What I'm Currently Working On
+I am currently focused on improving my programming fundamentals and building small projects to strengthen my understanding of software development.
 
 ---
 
-## 🔗 Future Improvements
-- Improve existing projects with better structure and features  
-- Build more advanced applications  
-- Explore modern frameworks and tools  
+## 🔗 Next Steps
+Going forward, I plan to:
+- Improve my existing projects  
+- Learn more about how real-world applications are built  
+- Continue developing my coding skills through practice  
 
 ---
