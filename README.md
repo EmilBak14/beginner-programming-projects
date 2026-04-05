@@ -11,16 +11,7 @@ A simple web application featuring user authentication and input handling.
 - User login system  
 - Input validation  
 - Basic web structure  
-
----
-
-### 🧮 Calculator
-A simple calculator that performs basic arithmetic operations.
-
-*Key features:*
-- Addition, subtraction, multiplication, division  
-- User input handling  
-- Clear and structured logic  
+ 
 
 ---
 
