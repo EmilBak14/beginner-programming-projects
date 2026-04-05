@@ -1,4 +1,4 @@
-# Code.org Project
+# Informatics Exam Vets app
 
 This project is a JavaScript app created using Code.org. You can view and interact with the project using the following link:
 
