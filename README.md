@@ -34,6 +34,13 @@ Through these projects, I have gained experience with:
 
 ---
 
+## 🛠️ Technologies
+- Python  
+- HTML  
+- CSS
+
+---
+
 ## 🎯 About Me
 I am an upcoming Computer Science student starting my Bachelor’s degree in September.  
 I am highly motivated to develop my skills in software engineering and enjoy building small projects to learn new technologies.
