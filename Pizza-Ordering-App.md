@@ -10,8 +10,7 @@ This project is a simple pizza ordering application that simulates a real-world 
 - Add pizzas to cart  
 - View current order (cart)  
 - Display quantity of each pizza  
-- Remove last added item  
-- Remove all items of a selected type  
+- Remove items of a selected type  
 - Calculate total price dynamically  
 
 ## 🧠 What I Learned
