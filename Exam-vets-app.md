@@ -1,6 +1,6 @@
 # Informatics Exam Vets app
 
-This project is a JavaScript app created using Code.org. 
+This project is a JavaScript-based application developed using Code.org.
 
 This project is an application designed to calculate medicine dosage for pets.
 
