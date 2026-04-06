@@ -21,4 +21,4 @@ Each project demonstrates different aspects of programming such as user interact
 
 ## 🔗 View Projects
 
-Each project is described in detail in the files above.
+Each project is described in detail in the files.
