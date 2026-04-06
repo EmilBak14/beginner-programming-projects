@@ -2,11 +2,26 @@
 
 This project is a JavaScript app created using Code.org. 
 
-This app is designed with as a simple product site, where you can choose between sizes and add to cart.
+This project is a basic product page with shopping cart functionality.
 
-you can view your cart by clicking on it. 
+## 🚀 Features
 
-When you click on it you are redirected to your cart where you can se the toal value of your cart as well as the products and sizes in your cart.
+- Select product sizes  
+- Add products to cart  
+- View cart contents  
+- Display total price of items  
+
+## 🧠 What I Learned
+
+Through this project, I worked with:
+- Managing application state  
+- Handling user selections  
+- Calculating totals  
+- Structuring simple e-commerce functionality  
+
+## 🎯 Purpose
+
+The goal of this project was to simulate a simple online shopping experience and understand how a cart system works.
 
 You can view and interact with the project using the following link:
 
