@@ -1,6 +1,6 @@
 # Pizza Ordering App
 
-This project is a JavaScript app created using Code.org.
+This project is a JavaScript-based application developed using Code.org.
 
 This project is a simple pizza ordering application that simulates a real-world ordering system.
 
