@@ -1,6 +1,6 @@
 # Multiple Simple apps in 1
 
-This project is a JavaScript app created using Code.org. 
+This project is a JavaScript-based application developed using Code.org.
 
 This project is a collection of small applications combined into one program.
 
