@@ -7,6 +7,7 @@ This is an app with multiple simple apps such as dice roll,  all in one, discoun
 The app is designed with a front page where you need to login with the following credentials:
 
 Brugernavn: Emil
+
 Adgangskode: 1234
 
 You can view and interact with the project using the following link:
